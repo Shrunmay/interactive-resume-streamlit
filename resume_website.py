@@ -23,7 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- SIDEBAR / CONTACT INFO ---
-st.sidebar.image("assets\\NewPassPortPhoto.jpg", caption="Shrunmay Shivaji Shinde")
+st.sidebar.image("assets/NewPassPortPhoto.jpg", caption="Shrunmay Shivaji Shinde")
 st.sidebar.markdown("## Contact Details")
 st.sidebar.write("📍 Toronto, ON")
 st.sidebar.markdown("📧 [shrunmay.shinde@rotman.utoronto.ca](mailto:shrunmay.shinde@rotman.utoronto.ca)")
